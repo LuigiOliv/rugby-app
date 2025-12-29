@@ -66,7 +66,7 @@ const styles = {
     justifyContent: 'space-between'
   },
 
-  // ✅ UNIFIED BUTTON STYLES
+  // ✅ UNIFIED BUTTON STYLESS
   button: {
     backgroundColor: theme.secondary,
     border: 'none',
